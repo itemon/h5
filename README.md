@@ -28,3 +28,4 @@ if (!window.requestAnimationFrame)
 [`canvas`] is first introduced by apple.
 
 ## svg is an format only
+`svg` vs canvas
