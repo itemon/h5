@@ -29,3 +29,4 @@ if (!window.requestAnimationFrame)
 
 ## svg is an format only
 `svg` vs canvas
+* what is SVG is like
