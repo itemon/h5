@@ -26,3 +26,5 @@ if (!window.requestAnimationFrame)
 
 ## h5 canvas learning note
 [`canvas`] is first introduced by apple.
+
+## svg is an format only
